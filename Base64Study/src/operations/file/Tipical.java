@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 /**
  * Java 7 File IO
- * @author
+ * @author qwqwqwwqwdsd
  *
  */
 public class Tipical {
