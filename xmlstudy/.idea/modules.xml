@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Base64Study/Base64Study.iml" filepath="$PROJECT_DIR$/../Base64Study/Base64Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WorkerThreadStudy/WorkerThreadStudy.iml" filepath="$PROJECT_DIR$/../WorkerThreadStudy/WorkerThreadStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlstudy.iml" filepath="$PROJECT_DIR$/xmlstudy.iml" />
+    </modules>
+  </component>
+</project>
+

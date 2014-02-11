@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bean.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bean-bo-sources.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bo.jar" sourcepath="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bean-bo-sources.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ccd.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ccd-sources.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/dao.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/dao-sources.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/DC_SBO.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/DC_SBO-sources.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/framework.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/framework-sources.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/missingdata.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ssp_integration.jar"/>
+	<classpathentry kind="lib" path="C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ssp_integration-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/IBM/IMShared/plugins/com.ibm.rational.llc.engine_1.0.2.v20110126_0206/RLC.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

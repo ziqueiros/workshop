@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bean.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bean-bo-sources.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bo.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ccd.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ccd-sources.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/dao.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/dao-sources.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/DC_SBO.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/DC_SBO-sources.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/framework.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/framework-sources.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/missingdata.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ssp_integration.jar!/" />
+    <libelement value="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ssp_integration-sources.jar!/" />
+    <libelement value="jar://C:/Program Files (x86)/IBM/IMShared/plugins/com.ibm.rational.llc.engine_1.0.2.v20110126_0206/RLC.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="junit4">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bean.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bean.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bean-bo-sources.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bean-bo-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bo.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bo.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/bean-bo-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ccd.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ccd.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ccd-sources.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ccd-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dao.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/dao.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dao-sources.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/dao-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="DC_SBO.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/DC_SBO.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="DC_SBO-sources.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/DC_SBO-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="framework.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/framework.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="framework-sources.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/framework-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="missingdata.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/missingdata.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ssp_integration.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ssp_integration.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ssp_integration-sources.jar">
+        <CLASSES>
+          <root url="jar://C:/clearcase/TIERS_90.0.0.0_MOD_LOCAL/LIB/tiersjars/ssp_integration-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="RLC.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files (x86)/IBM/IMShared/plugins/com.ibm.rational.llc.engine_1.0.2.v20110126_0206/RLC.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
